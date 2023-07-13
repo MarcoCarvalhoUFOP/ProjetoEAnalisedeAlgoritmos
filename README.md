@@ -72,3 +72,6 @@ Classe NP-Completo, Reduções entre problemas
 
 Discussão P vs NP
 
+Busca em texto, algoritmo de Rabin-Karp
+
+Algoritmo de Knuth-Morris-Pratt (KMP)
